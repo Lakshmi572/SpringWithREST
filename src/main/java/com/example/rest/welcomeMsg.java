@@ -13,4 +13,10 @@ public class welcomeMsg {
         String Responsemsg="Welcome to the first app for Spring with Rest";
         return new ResponseEntity<>(Responsemsg, HttpStatus.OK);
     }
+
+    @GetMapping("/wish")
+    public ResponseEntity<String> greet(){
+        String Responsemsg="Good morning!!!";
+        return new ResponseEntity<>(Responsemsg, HttpStatus.OK);
+    }
 }
