@@ -1,7 +1,7 @@
 package com.example.rest.Req_Res_acceptance;
 
-import com.example.rest.Entity.Address;
-import com.example.rest.Entity.Student;
+import com.example.rest.Bindings.Address;
+import com.example.rest.Bindings.Student;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

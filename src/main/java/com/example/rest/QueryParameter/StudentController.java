@@ -1,6 +1,5 @@
 package com.example.rest.QueryParameter;
 
-import com.example.rest.Entity.Student;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

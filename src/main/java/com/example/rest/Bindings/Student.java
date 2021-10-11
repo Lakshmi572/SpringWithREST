@@ -1,5 +1,4 @@
-package com.example.rest.Entity;
-import com.fasterxml.jackson.annotation.JsonProperty;
+package com.example.rest.Bindings;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

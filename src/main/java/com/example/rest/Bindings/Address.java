@@ -1,4 +1,4 @@
-package com.example.rest.Entity;
+package com.example.rest.Bindings;
 
 import lombok.Data;
 
